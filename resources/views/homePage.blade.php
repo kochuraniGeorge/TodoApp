@@ -38,6 +38,8 @@
                     <button class="plus" type="button">+</button><br>  
                 </td>
             </tr>
+            
+            <!-- asd -->
             <tr class="error-message">
                 <td>
                     @error('task.'.$i.'.name')
