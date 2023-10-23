@@ -1,0 +1,35 @@
+button {
+    background-color: #87dbaa;
+    text-align: center;
+    font-size: 25;
+    margin-top: 35px;
+}
+
+body {
+    background-color: rgb(182, 204, 241);
+    text-align: center;
+}
+
+form {
+
+    border: 3px solid;
+    width: 50%;
+    margin-left: 400px;
+    font-size: 25px;
+    padding: 12px 20px;
+    text-align: left;
+}
+
+h1 {
+    text-decoration: underline;
+    font-family: fantasy;
+
+
+}
+.text-danger{
+    color:red;
+}
+.success{
+    color:rgb(4, 91, 30);
+    font-size: 25px;
+}

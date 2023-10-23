@@ -1,0 +1,99 @@
+body {
+    background-color: rgb(158, 217, 216);
+    /* text-align: center; */
+}
+h1{
+    color:blueviolet;
+    padding-bottom: 10px;
+    padding-top:10px;
+    text-align: center;
+    
+}
+h2{
+    color:blueviolet;
+    font-size: 30px;
+    font-family: "sans-serif";
+    text-align: center;
+}
+.personName{
+    text-transform: uppercase;
+}
+
+.logOutButton{
+        position: absolute; 
+        top: 0; 
+        right: 0; 
+        padding: 10px 20px; 
+        background-color: #0aae1d;
+        color: #e5e3e2;
+        border: none;
+        cursor: pointer;
+        font-size: x-large;
+        border: 2px solid #eaeef1;
+    }
+
+    .photoBtn{
+        position: absolute; 
+        top: 0; 
+        right: 100px; 
+        padding: 10px 20px; 
+        background-color: #0aae1d;
+        color: #e5e3e2;
+        border: none;
+        cursor: pointer;
+        font-size: x-large; 
+        border: 2px solid #eaeef1; 
+    }
+
+    .photoBtn:hover {
+        background-color: #ffffff;
+        color: #3498db; 
+        border-color: #3498db; 
+    }
+    .logOutButton:hover {
+        background-color: #ffffff; 
+        color: #3498db;
+        border-color: #3498db; 
+    }
+
+    /* input.task {
+        width: 60%;
+        height:50px;
+        border: 5px solid blueviolet;
+        border-radius: 4px;
+      }
+    input.name {
+        width: 20%;
+        height:70px;
+        border: 5px solid blueviolet;
+    } */
+    /* input[type=text]:focus {
+        background-color: rgb(218, 210, 220);
+      } */
+      /* .addTaskBtn{
+        color:white;
+        font-style: oblique;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: x-large;
+        background-color:rgb(43, 226, 122);
+        border: 5px solid blueviolet;
+        margin-top: 50px; 
+    } */
+      .viewProfileButton{
+        position: absolute; 
+        top: 0; 
+        right:280; 
+        padding: 10px 20px; 
+        background-color: #0aae1d;
+        color: #e5e3e2;
+        border: none;
+        cursor: pointer;
+        font-size: x-large;
+        border: 2px solid #eaeef1;
+      }
+
+     
+      
+
+
+
