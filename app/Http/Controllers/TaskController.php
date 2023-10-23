@@ -26,6 +26,7 @@ public function addTask(Request $request)
     //3rd
     //4th
     //5
+    //6
                                     //   echo "<pre>";
                                      // print_r($user['id']);die;
                                       //print_r($user['all()']);die;   
