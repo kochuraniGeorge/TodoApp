@@ -21,6 +21,7 @@ public function addTask(Request $request)
     $user = Auth::user();
     //test change
     //test 2
+    //any change
                                     //   echo "<pre>";
                                      // print_r($user['id']);die;
                                       //print_r($user['all()']);die;   
